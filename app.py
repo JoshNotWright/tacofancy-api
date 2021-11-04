@@ -167,7 +167,7 @@ class Contributor(db.Model):
 ##  Data loading functions ##
 #############################
 
-base_url = 'https://raw.github.com/sinker/tacofancy/master'
+base_url = 'https://raw.github.com/JoshNotWright/tacofancy/master'
 
 MAPPER = {
     'base_layers': BaseLayer,
